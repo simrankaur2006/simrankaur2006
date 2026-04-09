@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Simran</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simrankaur2006&label=Profile%20views&color=0e75b6&style=flat" alt="simrankaur2006" /> </p>
+<h1 align="center">Hi 👋, I'm Simran </h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simrankaur2006" alt="simrankaur2006" /></a> </p>
 
 - 💬 Ask me about **Machine Learning, Web Development, DSA, Cloud and Cyber Security**
 
