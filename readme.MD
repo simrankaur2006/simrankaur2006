@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **simrankaur200620@gmail.com**
 
-- ⚡ Fun fact **i love being misnadrist in male dominant environments ;)**
+- ⚡ Fun fact **i love being misandrist in male dominant environments ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
