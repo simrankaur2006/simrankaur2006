@@ -4,6 +4,7 @@
 - 💬 Ask me about **Machine Learning, Web Development, DSA, Cloud and Cyber Security**
 
 - 📫 How to reach me **simrankaur200620@gmail.com**
+- Check my portfolio (href= "https://simran-portfolio-website.netlify.app/")
 
 - ⚡ Fun fact **i love being misandrist in male dominant environments ;)**
 
