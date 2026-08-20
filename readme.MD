@@ -6,7 +6,7 @@
 - 📫 How to reach me **simrankaur200620@gmail.com**
 - Check my portfolio by clicking here --> https://simran-portfolio-website.netlify.app/
 
-- ⚡ Fun fact **i love being misandrist in male dominant environments ;)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
