@@ -3,7 +3,7 @@
 
 - 👨‍💻 Check my portfolio by clicking here --> [https://simran-portfolio-website.netlify.app/](https://simran-portfolio-website.netlify.app/)
 
-- 💬 Ask me about **Full Stack Development, Machine Learning, Deep Learning, GenAI, CyberSecurity,Cloud & DSA**
+- 💬 Ask me about **Full Stack Development, Machine Learning, Deep Learning, GenAI, CyberSecurity, Cloud & DSA**
 
 - 📫 How to reach me **simrankaur200620@gmail.com**
 
