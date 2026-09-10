@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simran</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrankaur2006&label=Profile%20views&color=0e75b6&style=flat" alt="simrankaur2006" /> </p>
 
-- 👨‍💻 Check my portfolio by clicking here --> [https://simran-portfolio-website.netlify.app/](https://simran-portfolio-website.netlify.app/)
+- 👨‍💻 Check my portfolio by clicking here --> [Portfolio](https://portfolio-orcin-sigma-58.vercel.app/)
 
 - 💬 Ask me about **Full Stack Development, Machine Learning, Deep Learning, GenAI, CyberSecurity, Cloud & DSA**
 
