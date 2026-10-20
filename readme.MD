@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,45:312E81,100:06B6D4&text=SIMRAN%20KAUR&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20GENAI&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Simran Kaur — AI, ML, Full Stack and GenAI"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,45:312E81,100:06B6D4&text=SIMRAN%20KAUR&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20GENAI&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Simran Kaur — AIML & Full Stack Developer"/>
 
 <a href="https://github.com/simrankaur2006">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+intelligent+things+that+actually+work.;Turning+AI+ideas+into+real+applications.;Computer+Vision+%7C+LLMs+%7C+Agentic+AI;Code.+Experiment.+Build.+Repeat." alt="Animated introduction"/>
@@ -44,9 +44,8 @@ class SimranKaur:
             "Computer Vision",
             "Generative AI & Agentic AI",
             "Full-Stack Application Development",
-            "Cybersecurity"
+            "Cybersecurity(Forensics & SOC)"
         ]
-        self.languages = ["Python", "C", "C++", "Java"]
         self.mindset = "Learn deeply. Build relentlessly."
 
     def current_mission(self):
@@ -231,6 +230,6 @@ me = SimranKaur()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:09090B&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
-<sub>Designed with curiosity, caffeine, and a questionable number of open tabs. ✦</sub>
+<sub>Designed with curiosity and a questionable number of open tabs. ✦</sub>
 
 </div>
