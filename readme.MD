@@ -25,7 +25,7 @@
 
 <br/><br/>
 
-**B.Tech IT Student · AI/ML Developer · Full-Stack Builder**
+**AIML Developer · Full-Stack Application Builder**
 
 *Curious mind. Builder mindset. Always shipping something.*
 
@@ -38,7 +38,7 @@
 ```python
 class SimranKaur:
     def __init__(self):
-        self.role = "AI/ML & Full-Stack Developer"
+        self.role = "AIML Developer & Full-Stack Application Builder"
         self.focus = [
             "Machine Learning & Deep Learning",
             "Computer Vision",
