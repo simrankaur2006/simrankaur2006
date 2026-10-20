@@ -1,18 +1,236 @@
-<h1 align="center">Hi 👋, I'm Simran</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simrankaur2006&label=Profile%20views&color=0e75b6&style=flat" alt="simrankaur2006" /> </p>
+<!--
+    SIMRAN KAUR — GITHUB PROFILE README
+    Repo: simrankaur2006/simrankaur2006
+-->
 
-- 👨‍💻 Check my portfolio by clicking here --> [Portfolio](https://portfolio-orcin-sigma-58.vercel.app/)
+<div align="center">
 
-- 💬 Ask me about **Full Stack Development, Machine Learning, Deep Learning, GenAI, CyberSecurity, Cloud & DSA**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,45:312E81,100:06B6D4&text=SIMRAN%20KAUR&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20GENAI&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Simran Kaur — AI, ML, Full Stack and GenAI"/>
 
-- 📫 How to reach me **simrankaur200620@gmail.com**
+<a href="https://github.com/simrankaur2006">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+intelligent+things+that+actually+work.;Turning+AI+ideas+into+real+applications.;Computer+Vision+%7C+LLMs+%7C+Agentic+AI;Code.+Experiment.+Build.+Repeat." alt="Animated introduction"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
+<br/>
+
+<a href="https://github.com/simrankaur2006?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore projects"/>
+</a>
+<a href="https://www.linkedin.com/in/simran-kaur-832136304/">
+  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:simrankaur2006@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+
+<br/><br/>
+
+**B.Tech IT Student · AI/ML Developer · Full-Stack Builder**
+
+*Curious mind. Builder mindset. Always shipping something.*
+
+</div>
+
+---
+
+## `whoami` → Simran Kaur
+
+```python
+class SimranKaur:
+    def __init__(self):
+        self.role = "AI/ML & Full-Stack Developer"
+        self.focus = [
+            "Machine Learning & Deep Learning",
+            "Computer Vision",
+            "Generative AI & Agentic AI",
+            "Full-Stack Application Development",
+            "Cybersecurity"
+        ]
+        self.languages = ["Python", "C", "C++", "Java"]
+        self.mindset = "Learn deeply. Build relentlessly."
+
+    def current_mission(self):
+        return "Turning complex ideas into useful software"
+
+me = SimranKaur()
+```
+
+- Building projects at the intersection of **AI, software engineering and intelligent automation**.
+- Exploring computer vision, LLM-powered applications, RAG and agentic workflows.
+- Interested in building technology that solves real problems—not just demos.
+- Constantly sharpening my problem-solving and engineering skills.
+
+---
+
+## `tech_stack` → The Arsenal
+
+<details open>
+<summary><b>01 / Programming Languages</b></summary>
+<br/>
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/simran-kaur-832136304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simran-kaur-832136304/" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" alt="Python, C, C++, Java"/>
+</p>
+</details>
+
+<details open>
+<summary><b>02 / AI · Machine Learning · Deep Learning</b></summary>
+<br/>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow and OpenCV"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=00AEEF)
+![Seaborn](https://img.shields.io/badge/Seaborn-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![YOLOv8x](https://img.shields.io/badge/YOLOv8x-0D1117?style=flat-square&logo=ultralytics&logoColor=00FFFF)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simrankaur2006&show_icons=true&locale=en" alt="simrankaur2006" /></p>
+</details>
+
+<details open>
+<summary><b>03 / Generative AI · LLMs · Agentic AI</b></summary>
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C8C5E)
+![Langflow](https://img.shields.io/badge/Langflow-0D1117?style=flat-square&logo=langflow&logoColor=06B6D4)
+![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-0D1117?style=flat-square&logo=databricks&logoColor=FF3621)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0D1117?style=flat-square&logo=probot&logoColor=22D3EE)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+
+</details>
+
+<details open>
+<summary><b>04 / MLOps · Cloud · DevOps</b></summary>
+<br/>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" alt="Docker and AWS"/>
+</p>
+
+![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=flat-square&logo=mlflow&logoColor=0194E2)
+![DagsHub](https://img.shields.io/badge/DagsHub-0D1117?style=flat-square&logo=git&logoColor=F05032)
+
+</details>
+
+<details open>
+<summary><b>05 / Databases</b></summary>
+<br/>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL and MySQL"/>
+</p>
+</details>
+
+<details open>
+<summary><b>06 / Cybersecurity & Digital Forensics</b></summary>
+<br/>
+
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![Snort](https://img.shields.io/badge/Snort-0D1117?style=flat-square&logo=snort&logoColor=F44336)
+![Splunk](https://img.shields.io/badge/Splunk-0D1117?style=flat-square&logo=splunk&logoColor=65A637)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=2596CD)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Autopsy](https://img.shields.io/badge/Autopsy-0D1117?style=flat-square&logo=files&logoColor=22D3EE)
+![FTK](https://img.shields.io/badge/FTK-0D1117?style=flat-square&logo=files&logoColor=22D3EE)
+![Volatility](https://img.shields.io/badge/Volatility-0D1117?style=flat-square&logo=linux&logoColor=22D3EE)
+![Ghidra](https://img.shields.io/badge/Ghidra-0D1117?style=flat-square&logo=gnometerminal&logoColor=F05032)
+![Maltego](https://img.shields.io/badge/Maltego-0D1117?style=flat-square&logo=target&logoColor=22D3EE)
+![tcpdump](https://img.shields.io/badge/tcpdump-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0D1117?style=flat-square&logo=owasp&logoColor=99CC00)
+
+</details>
+
+<details open>
+<summary><b>07 / Web Development · Tools · Other Skills</b></summary>
+<br/>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flask,git,github,figma&theme=dark" alt="Web development, version control, and UI/UX tools"/>
+</p>
+
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
+
+</details>
+
+---
+
+## `featured_work` → Things I've Built
+
+| Project | What it explores |
+|---|---|
+| **SentinelAI** | Intelligent threat detection, anomaly analysis and security investigation |
+| **SkillSync-AI** | AI-assisted resume and job-description analysis |
+| **Deepfake Detection** | Deep learning and computer vision for synthetic-media detection |
+| **Medical Chatbot** | LLMs, retrieval-augmented generation and conversational interfaces |
+| **Beyond Addiction** | A full-stack recovery-support platform |
+| **Fake News Detection** | Machine-learning-based text classification |
+
+> Explore the repositories for implementation details, setup instructions and project-specific documentation.
+
+[**→ Explore all repositories**](https://github.com/simrankaur2006?tab=repositories)
+
+---
+
+## `github_stats` → The Grind
+
+<div align="center">
+
+<a href="https://github.com/simrankaur2006">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=simrankaur2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/simrankaur2006">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrankaur2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=simrankaur2006&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simrankaur2006&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=A78BFA&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## `philosophy` → How I Build
+
+<div align="center">
+
+> **Understand the problem.**
+>
+> **Engineer the solution.**
+>
+> **Measure the results.**
+>
+> **Keep getting better.**
+
+</div>
+
+<div align="center">
+
+### Have an interesting problem to solve?
+
+**Let's build something meaningful.**
+
+<a href="https://github.com/simrankaur2006">
+  <img src="https://img.shields.io/badge/LET'S_BUILD-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="Let's build"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:09090B&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+<sub>Designed with curiosity, caffeine, and a questionable number of open tabs. ✦</sub>
+
+</div>
